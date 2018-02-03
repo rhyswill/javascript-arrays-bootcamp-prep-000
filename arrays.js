@@ -3,7 +3,7 @@ var choclateBars = [
   'Hundred Grand',
   'KitKat',
   'Skittles'
-  ]
+  ];
   
 function addElementToBeginningOfArray ()[
   ["Hersheys...choclateBars"]
